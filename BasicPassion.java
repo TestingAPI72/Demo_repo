@@ -68,7 +68,10 @@ public class BasicPassion {
 		{
 			System.out.println("Testcase passed");
 		}
-		
+		else{
+			System.out.println("Testcase failed");
+			
+		}
 	}
 	
 	
